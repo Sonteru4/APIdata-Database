@@ -39,4 +39,4 @@ driver.py - Entry point for the application, contains parsing command line argum
 
 
 ## Results
-![RESULTS](https://github.com/Jahid-Hasan2/API-data-to-Database.git/main/Data_Api_to_Postgres/Results.PNG)
+![RESULTS](https://github.com/Jahid-Hasan3/API-data-to-Database.git/main/Results.PNG)
